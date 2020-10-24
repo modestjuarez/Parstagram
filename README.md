@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-[Imgur](https://imgur.com/O7qVZxb)
-
 <img src= ParsagramWalkthrough.gif />
+
+or you can view the most recent update on Imgur:
+[Imgur](https://i.imgur.com/rqDlKgd.gif)
