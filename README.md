@@ -19,6 +19,6 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 <img src= ParsagramWalkthrough.gif />
 
-##Video Walkthrough Most Recent
+## Video Walkthrough Most Recent
 or you can view the most recent update on Imgur:
 [Imgur](https://i.imgur.com/rqDlKgd.gif)
