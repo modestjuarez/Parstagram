@@ -20,4 +20,4 @@ Here's a walkthrough of implemented user stories:
 
 [Imgur](https://imgur.com/O7qVZxb)
 
-<img src= PasragramWalkthrough.gif />
+<img src= ParsagramWalkthrough.gif />
